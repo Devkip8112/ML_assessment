@@ -1,0 +1,5 @@
+# requirements.txt
+transformers>=4.25.0
+torch>=1.12.0
+tqdm
+scikit-learn
